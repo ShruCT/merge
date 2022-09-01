@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+modified merge by Vishwajeet
+=======
 merge
+<<<<<<< HEAD
 this is merge file
+=======
+aala re aala
+>>>>>>> cbd54ee4d54
+tyuyiuuiuiyutygf
