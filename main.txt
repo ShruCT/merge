@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 modified merge by Vishwajeet
+=======
+merge
+aala re aala
+>>>>>>> cbd54ee4d54a8999618c4a3d9d9f5421ae0d211b
