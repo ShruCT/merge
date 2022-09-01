@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 bye
+=======
+
+Merge by Vishwajeet
+merge
+aala re aala
+This is Swapnali 
+this is niharika
+>>>>>>> m
