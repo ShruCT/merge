@@ -1,4 +1,26 @@
 
+<<<<<<< HEAD
 Merge by Vishwajeet
 merge
+<<<<<<< HEAD
+
+Manish's Merge
+=======
 aala re aala
+This is Swapnali 
+this is manish
+>>>>>>> 3192f424f5845f62ba5e183bffc8856d629cd7d0
+=======
+
+Manish' Merge of manishmerge's branch
+=======
+
+
+this is manish
+<<<<<<< HEAD
+>>>>>>> manishmerge
+=======
+
+Last time
+RCB WON IPL
+>>>>>>> manishmerge
